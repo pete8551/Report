@@ -1,0 +1,2 @@
+# Report
+Sample BI report
